@@ -40,10 +40,6 @@ def nick():
 if __name__ == "__main__":
     nick()
 ```
-
-<p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
-</p>
 ### MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/Dekura-X/)
 [![Youtube](https://img.shields.io/badge/Youtube-Subscribe-green?style=for-the-badge&logo=Youtube)](https://youtube.com/c/orbXDBdbsS)
@@ -57,3 +53,8 @@ if __name__ == "__main__":
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+```
+
+<p align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
+</p>
