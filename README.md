@@ -46,6 +46,12 @@ if __name__ == "__main__":
 [![Instagram](https://img.shields.io/badge/Instagram-Ikuti-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ngemry7)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Chat-green?style=for-the-badge&logo=WhatsApp)](https://wa.me/+6281567607136?text=Assalamualaikum%20Bang)
 
+<p align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DekuraDev&layout=compact&theme=chartreuse-dark">
+</p>
+
+
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/scripter-ryu/github-readme-stats -->
@@ -53,8 +59,4 @@ if __name__ == "__main__":
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-```
 
-<p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
-</p>
