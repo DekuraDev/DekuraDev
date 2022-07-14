@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ##
-
-<img src="https://github.com/Dekura-X/Dekura-X/blob/main/IMG_20210914_175500.jpg" width="640" title="Dekura-X" alt="Menu">
-</p>
-
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DekuraDev&layout=compact&theme=chartreuse-dark">
 </p>
